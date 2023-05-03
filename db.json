@@ -1,0 +1,465 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    },
+    {
+      "email": "mahadi@learnwithsumit.com",
+      "password": "$2a$10$ghusHjEtvDvti1JWcTlp/exs.q89Sw89A2IuPbOrJG4FQ2vv8ACum",
+      "role": "student",
+      "name": "Mahadi",
+      "id": 8
+    },
+    {
+      "email": "mahadi2020dev@gmail.com",
+      "password": "$2a$10$mvE0ySWJOxfTg9QsdiFAp.8BomHcIQsNRTLR2tRJO3L7wuFKl.C7.",
+      "name": "Taimur Islam",
+      "role": "student",
+      "id": 9
+    },
+    {
+      "email": "tushar@gmail.com",
+      "password": "$2a$10$M4VzMO6sKLYCbg9xLraFceB.dg3qHvMpH0NDplsrIf4u9jtr9knj.",
+      "name": "Tushar",
+      "role": "student",
+      "id": 10
+    },
+    {
+      "email": "samima@gmai.com",
+      "password": "$2a$10$0HYeBl09VKo/7pm8HF/.u.oWWvFNsBQQfmIpQIIMiXsWbzIlYdK0W",
+      "name": "Samima Akter",
+      "role": "student",
+      "id": 11
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "views": "51.2K",
+      "duration": "5:30",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
+      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "views": "91.2K",
+      "duration": "31:30",
+      "createdAt": "2023-02-24T17:59:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Introduction | Tailwind CSS Bangla Tutorial",
+      "description": "This is the introduction video of Learn with Sumit Tailwind CSS Bangla Tutorial Course. In this video, you will get detail instructions about how to follow this playlist, course outline, what are the prerequisites to learn Tailwind CSS and what to expect from this course.",
+      "url": "https://www.youtube.com/embed/X7XbjwD6fVY",
+      "views": "72.1K",
+      "duration": "4:15",
+      "createdAt": "2021-11-04T17:59:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "description": "After the arrival of Next.js 13, there is a new rumor that redux has become obsolete! Many people are giving their own fabricated opinion without proper explanation on the matter. Common learner brothers & sisters are getting confused about this and can't decide whether to learn redux at all. I have tried to explain the exact facts in this live session. Also, I have tried to answer various questions regarding our current Think in a Redux way - Batch 2 course.",
+      "url": "https://www.youtube.com/embed/56zUkaXJnUA",
+      "views": "1.2K",
+      "duration": "21:30",
+      "createdAt": "2023-02-27T17:59:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Is Redux still relevant in 2023?",
+      "description": "After the arrival of Next.js 13, there is a new rumor that redux has become obsolete! Many people are giving their own fabricated opinion without proper explanation on the matter. Common learner brothers & sisters are getting confused about this and can't decide whether to learn redux at all. I have tried to explain the exact facts in this live session. Also, I have tried to answer various questions regarding our current Think in a Redux way - Batch 2 course.",
+      "url": "https://www.youtube.com/embed/n1XEDJEHnmI",
+      "views": "9.6K",
+      "duration": "1:52:54",
+      "createdAt": "2023-02-04T17:59:00.000Z"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalMark": 100
+    },
+    {
+      "id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalMark": 100
+    },
+    {
+      "title": "ASdjasgd sdhasjhd hask",
+      "video_id": 3,
+      "video_title": "Introduction | Tailwind CSS Bangla Tutorial",
+      "totalMark": 100,
+      "id": 3
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is a Debounce function in JavaScript?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": "1",
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": true
+        },
+        {
+          "id": "2",
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "A function that is called after a certain time interval",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a situation where you would use the Debounce function?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": "1",
+          "option": "A search bar where the results are displayed as you type.",
+          "isCorrect": true
+        },
+        {
+          "id": "2",
+          "option": "A button that performs an action when clicked.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "An animation that plays when a user hovers over an element.",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "All of the above.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the difference between null and undefined in JavaScript?",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "options": [
+        {
+          "id": 1,
+          "option": "null represents the intentional absence of any object value.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "undefined represents the uninitialized value of a variable or property.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Same thing",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "No Difference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many null value does JavaScript have?",
+      "video_id": 3,
+      "video_title": "Introduction | Tailwind CSS Bangla Tutorial",
+      "options": [
+        {
+          "id": 1,
+          "option": "Five",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Six",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Two",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Three",
+          "isCorrect": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "question": "Is \"undefined\" a null value in JavaScript? ",
+      "video_id": 4,
+      "video_title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "options": [
+        {
+          "id": 1,
+          "option": "czcx",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "add",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Both are True",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Neither of them.",
+          "isCorrect": true
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "assignmentMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": "100",
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 1,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2021-01-15T15:17:01.727Z",
+      "totalMark": 100,
+      "mark": 50,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published"
+    },
+    {
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "totalMark": 100,
+      "repo_link": "https://github.com/machadop1407",
+      "status": "published",
+      "mark": "100",
+      "createdAt": "2023-04-03T17:42:41.356Z",
+      "id": 4
+    },
+    {
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "totalMark": 100,
+      "repo_link": "https://github.com/machadop1407/React-Modal",
+      "status": "published",
+      "mark": "100",
+      "createdAt": "2023-04-03T17:43:15.785Z",
+      "id": 5
+    },
+    {
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 3,
+      "title": "ASdjasgd sdhasjhd hask",
+      "totalMark": 100,
+      "repo_link": "https://github.com/machadop1407/React-Modal-Tutorial/blob/main/src/App.js",
+      "status": "published",
+      "mark": "100",
+      "createdAt": "2023-04-08T07:58:23.134Z",
+      "id": 6
+    }
+  ],
+  "quizMark": [
+    {
+      "id": 1,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 1,
+      "totalWrong": 1,
+      "totalMark": 10,
+      "mark": 5
+    },
+    {
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "mark": 10,
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalMark": 10,
+      "id": 2
+    },
+    {
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "video_id": 2,
+      "video_title": "JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 3
+    },
+    {
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 2,
+      "video_title": "JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 4
+    },
+    {
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 3,
+      "video_title": "Introduction | Tailwind CSS Bangla Tutorial",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 5
+    },
+    {
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "mark": 0,
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "video_id": 3,
+      "video_title": "Introduction | Tailwind CSS Bangla Tutorial",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 6
+    },
+    {
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "mark": 0,
+      "student_id": 8,
+      "student_name": "Mahadi",
+      "video_id": 4,
+      "video_title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 7
+    },
+    {
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 4,
+      "video_title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "id": 8
+    }
+  ]
+}
